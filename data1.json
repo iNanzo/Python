@@ -1,0 +1,13 @@
+{
+    "name": "Newton Hoang",
+    "age": 18,
+    "city": "Seattle",
+    "interests": [
+        "Dungeons & Dragons",
+        "Video Game Development",
+        "Movies",
+        "World Bulding",
+        "Board Games"
+    ],
+    "isStudent": false
+}
